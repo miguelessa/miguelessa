@@ -1,5 +1,6 @@
 # 💫 About Me:
 My name is Miguel, Actually i'd live in Brazil. I love listening to music and Working on APIs, even when i do nothing with them, LOL!.<br>I used to play videogames, but i'm not into this no more. I'm 19 years old and i'm bald, hehe.
+I decided to delete all my repositories and start from zero again, because i just realized that i were posting so much useless things like a spam or some, so i decided to do it again.
 
 
 # 💻 Tech Stack:
