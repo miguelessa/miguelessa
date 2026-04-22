@@ -9,7 +9,5 @@ My name is Miguel, Actually i'd live in Brazil. I love listening to music and Wo
 ![](https://streak-stats.demolab.com/?user=miguelessa&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=miguelessa&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=miguelessa&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
