@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Miguel, Actually i'd live in Brazil. I love listening to music and Working on APIs, even when i do nothing with them, LOL!.<br>I used to play videogames, but i'm not into this no more. I'm 19 years old and i'm bald, hehe.
+My name is Miguel, Actually i'd live in Brazil. I love listening to music and Working on APIs, even when i do nothing with them, LOL!.<br>I used to play videogames, but i'm not into this no more. I'm 19 years old.
 I decided to delete all my repositories and start from scratch again because I realized I was posting a lot of useless stuff, like spam or something, so I decided to start over.
 
 
